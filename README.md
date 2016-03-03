@@ -1,2 +1,3 @@
 # SlideLock
-Slide to unlock widget on android. 
+Slide to unlock widget on android.
+![Screenshot](output.gif)
